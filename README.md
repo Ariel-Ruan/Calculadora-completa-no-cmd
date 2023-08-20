@@ -1,1 +1,1 @@
-# Calculadora completa no CMD.
+# Calculadora completa no CMD
